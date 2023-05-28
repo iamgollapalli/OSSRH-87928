@@ -8,7 +8,7 @@ import lombok.Setter;
 public class FyersProperties {
 
     private String username;
-    private String password;
+    private String credential;
     private String pin;
     private String pan;
     private String app_id = "";
