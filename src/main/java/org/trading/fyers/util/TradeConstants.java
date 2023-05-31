@@ -15,6 +15,8 @@ public class TradeConstants {
         public static final String VERIFY_PIN = "vagator/v1/verify_pin";
         public static final String GENERATE_AUTH_CODE = "api/v2/token";
         public static final String VALIDATE_AUTH_CODE = "api/v2/validate-authcode";
+        public static final String VALIDATE_AUTH_CODE = "api/v2/validate-authcode";
+        public static final String VALIDATE_AUTH_CODE = "api/v1/validate-authcode";
     }
 
 
